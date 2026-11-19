@@ -1,0 +1,8 @@
+{
+  "name": "crockbot-ai-kitchen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CrockBot AI cooking companion",
+  "engines": { "node": ">=20" },
+  "scripts": { "dev": "vercel dev" }
+}
