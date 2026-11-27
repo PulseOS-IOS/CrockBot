@@ -2,12 +2,12 @@
   "name": "CrockBot — AI Kitchen Companion",
   "short_name": "CrockBot",
   "description": "Recipes, food scanning, meal prep and baking tools.",
-  "start_url": "/#home",
-  "scope": "/",
+  "start_url": "./#home",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
   "icons": [
-    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }
